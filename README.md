@@ -1,5 +1,5 @@
 ## Hi there
-My name is Hamid Syed, I am a grade 11 student who is passionate for computer programming.
+My name is Hamid Syed, I am a grade 12 student who is passionate for computer programming.
 
 I had started programming when I was 10 years old, starting by learning p5.js on Khan Academy. Since then I have learned many other languages such as Python, Java, Javascript, C#, and GDscript. In the future, I hope to be a computer engineer and more into the hardware side as well.
 Currently, one project that I have been trying to do was creating a multiplayer game using node.js and socket.io as my backend.
