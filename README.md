@@ -4,6 +4,8 @@ My name is Hamid Syed, I am a grade 12 student who is passionate for computer pr
 I had started programming when I was 10 years old, starting by learning p5.js on Khan Academy. Since then I have learned many other languages such as Python, Java, Javascript, C#, and GDscript.
 Currently, one project that I have been trying to do was creating a multiplayer game using node.js and socket.io as my backend.
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2223&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=aura_dark)
+
 Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
 <!--
 **Nawab-AS/Nawab-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
