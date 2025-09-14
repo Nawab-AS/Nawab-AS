@@ -11,7 +11,6 @@ Currently, one project that I have been trying to do was creating a multiplayer 
 
 Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
 <!-- hideInPortfolio end -->
-
 <!-- hideInReadme start
 
 ## Top Languages
@@ -21,8 +20,6 @@ Javascript: 61.7%
 Other: 50000.0%
 
 hideInReadme end -->
-
-
 <!--
 **Nawab-AS/Nawab-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
