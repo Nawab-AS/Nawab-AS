@@ -1,25 +1,28 @@
-## Hi there
-My name is Hamid Syed, I am a grade 12 student who is passionate for computer programming and cybersecurity.
-
-I had started programming when I was 10 years old, starting by learning p5.js on Khan Academy. Since then I have learned many other languages such as Python, Java, Javascript, C#, and GDscript.
-Currently, one project that I have been trying to do was creating a multiplayer game using node.js and socket.io as my backend.
-
 <!-- hideInPortfolio start -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawab-as&show_icons=true&theme=github_dark_dimmed)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawab-as&theme=github_dark_dimmed)
-
-Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
+```
+███╗   ██╗ █████╗ ██╗    ██╗ █████╗ ██████╗        █████╗ ███████╗
+████╗  ██║██╔══██╗██║    ██║██╔══██╗██╔══██╗      ██╔══██╗██╔════╝
+██╔██╗ ██║███████║██║ █╗ ██║███████║██████╔╝█████╗███████║███████╗
+██║╚██╗██║██╔══██║██║███╗██║██╔══██║██╔══██╗╚════╝██╔══██║╚════██║
+██║ ╚████║██║  ██║╚███╔███╔╝██║  ██║██████╔╝      ██║  ██║███████║
+╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═════╝       ╚═╝  ╚═╝╚══════╝
+```
 <!-- hideInPortfolio end -->
-<!-- hideInReadme start
+### Grade 12 IB student | Web developer | Cybersecurity enthusiast
+<!-- hideInPortfolio start -->
+![Coding Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2223&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&hide=Other,JSON)
+<!-- hideInPortfolio end -->
 
-## Top Languages
+### Currently Learning
+ - Rust
 
-Python: 17.3%
-Javascript: 61.7%
-Other: 50000.0%
+### Working On
+Nothing at the moment, IB Exams are coming soon...
 
-hideInReadme end -->
+### Highlights
+ - **[EE](https://github.com/Nawab-AS/EE)** - Benchmarking ECDH (Elliptic Curve Diffie-Hellman) vs RKT (RSA Key Transport) key agreement algorithms on Raspberry Pi Pico 2 for my IB EE (Extended Essay)
+ - **[ChemicalRnderer](https://github.com/nawab-AS/ChemicalRenderer)** - A single-file python module that converts organic chemicals (IUPAC nomenclature) into their condensed structural formula
+
 <!--
 **Nawab-AS/Nawab-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +37,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- hideInPortfolio start -->
+Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
+<!-- hideInPortfolio end -->
