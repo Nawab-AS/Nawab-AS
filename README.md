@@ -21,7 +21,7 @@ Nothing at the moment, IB Exams are coming soon...
 
 ### Highlights
  - **[EE](https://github.com/Nawab-AS/EE)** - Benchmarking ECDH (Elliptic Curve Diffie-Hellman) vs RKT (RSA Key Transport) key agreement algorithms on Raspberry Pi Pico 2 for my IB EE (Extended Essay)
- - **[ChemicalRnderer](https://github.com/nawab-AS/ChemicalRenderer)** - A single-file python module that converts organic chemicals (IUPAC nomenclature) into their condensed structural formula
+ - **[ChemicalRenderer](https://github.com/nawab-AS/ChemicalRenderer)** - A single-file python module that converts organic chemicals (IUPAC nomenclature) into their condensed structural formula
 
 <!--
 **Nawab-AS/Nawab-AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
