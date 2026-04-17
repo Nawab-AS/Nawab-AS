@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 
 <!-- hideInPortfolio start -->
 Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
+
+![Profile View Count](https://komarev.com/ghpvc/?username=Nawab-AS)
 <!-- hideInPortfolio end -->
