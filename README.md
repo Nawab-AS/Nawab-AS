@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 <!-- hideInPortfolio start -->
 <!-- Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io -->
+# Contact
+Feel free to contact me at **[Hamid@nawab-as.dev](mailto:Hamid@nawab-as.dev)**
+
 
 <img src="https://komarev.com/ghpvc/?username=Nawab-AS" alt="Profile Views" />
 <!-- hideInPortfolio end -->
