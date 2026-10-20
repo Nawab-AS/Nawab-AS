@@ -8,19 +8,22 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═════╝       ╚═╝  ╚═╝╚══════╝
 ```
 <!-- hideInPortfolio end -->
-### Grade 12 IB student | Web developer | Cybersecurity enthusiast
+### UofG CS student | Web developer | Cybersecurity enthusiast
 <!-- hideInPortfolio start -->
 ![Coding Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2223&api_domain=hackatime.hackclub.com&theme=catppuccin_mocha&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&hide=Other,JSON)
 <!-- hideInPortfolio end -->
 
 ### Currently Learning
- - Rust
+ - DNS resolution with pihole
+
 
 ### Working On
-Nothing at the moment, IB Exams are coming soon...
+ - A backend reverse proxy for sharing MCP-creator servers
+
 
 ### Highlights
  - **[EE](https://github.com/Nawab-AS/EE)** - Benchmarking ECDH (Elliptic Curve Diffie-Hellman) vs RKT (RSA Key Transport) key agreement algorithms on Raspberry Pi Pico 2 for my IB EE (Extended Essay)
+ - **[MCP-creator](https://github.com/Nawab-AS/MCP-creator)** - A simple app to create semantic search MCP servers
  - **[ChemicalRenderer](https://github.com/nawab-AS/ChemicalRenderer)** - A single-file python module that converts organic chemicals (IUPAC nomenclature) into their condensed structural formula
 
 <!--
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
 
 
 <!-- hideInPortfolio start -->
-Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io
+<!-- Want to learn more about me? Head on over to my portfolio at https://nawab-as.github.io -->
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=Nawab-AS)
 <!-- hideInPortfolio end -->
